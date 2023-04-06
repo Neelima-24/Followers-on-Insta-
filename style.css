@@ -1,5 +1,5 @@
 body {
-  background: rgb(66, 66, 66);
+  background: rgb(22, 22, 22);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,5 +9,5 @@ body {
   color: aliceblue;
 }
 .description {
-  transition: 0.9s ease-in-out;
+  transition: 5s ease-in-out;
 }

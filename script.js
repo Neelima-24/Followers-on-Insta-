@@ -13,7 +13,7 @@ setInterval(() => {
 // 1000followers on instagram so we use setTimeout
 
 setTimeout(() => {
-  followers.innerText = "Followers on instagram!";
+  followers.innerText = "CONGRATULATIONS! Followers on instagram!";
 }, 4950);
 
 // setInterval(() => {
